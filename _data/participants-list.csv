@@ -1,0 +1,337 @@
+team_id,team,institution,name,role
+SAUVC-BD-75,IUB Bongomarine,Independent University,Dr. Saadia Binte Alam,Supervisor
+SAUVC-BD-75,IUB Bongomarine,Independent University,Dr. Mohammad Faisal Uddin,Supervisor
+SAUVC-BD-75,IUB Bongomarine,Independent University,Md Hasibur Rahman,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Noor-E Sadman,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Md Fayed Al Monir,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Tahfizul Hasan Zihan,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Rahat Hasan Shihab,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Md. Hana Sultan Chowdhury,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Md Jahid Hasan,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Mukut Protim Memo,Member
+SAUVC-BD-75,IUB Bongomarine,Independent University,Md. Abdun Fattah Lam,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Ng Chun Yin,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Leung Ming Fong,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Leung Kam Ho,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Lee Tsz Kin,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Tam Hei Shek Anson,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Tsang Wai Ho,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Cheuk Chi Ming,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Tam Ching Yuen,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,So Wai Pang,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Lo Long Yin,Member
+SAUVC-HK-24,Manta Ray,The Hong Kong Polytechnic University,Fung Yu Fai,Supervisor
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Mau Chun WEI,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Ting Kwan Alex Lam,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Tak Shing Wong,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Aaron Ip,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Ho Yan Chen,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Wai San Cheung,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Des Farenh Ladiao Sinalubong ,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Ishmamul Islam,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Yeung Ting HUI,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Yin Kwan YIU,Member
+SAUVC-HK-42,CityU Underwater Robotics - PIONEER,City University of Hong Kong,Ka Hei YU,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,He JiaJie,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,Chen Yi Ming,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Team Kong Polytechnic University,Tsoi Ting Wai,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,Shaikh Muhammad Waris,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,Lee Sze Lok,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,Chung Tak Yu,Member
+SAUVC-HK-50,PolyU EEE AUV,The Hong Kong Polytechnic University,Zhang Kin Hang,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Simon Siregar,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Mirza Ali Yusuf,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Erin Pradesty,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Fransisco,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Muhammad Aulia Rifqi Zain,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Muhammad Rizal Mutaqien,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Sugeng Warsito,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Angelica Sitorus,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Muhammad Fathir Qinthara,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Muhammad Abyan Wibowo,Member
+SAUVC-ID-05,FIToplankton,Telkom University,Fahmi Pratama Khair,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Ardella Insya Firmanti ,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Rizkian Wahid Saputra,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Daniel Hermans Manurung ,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Mutiara Azi Nurfazrina,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Tito Dzullyardana Putra ,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Kartika Nur Fajrin ,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Vania Zafira,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Daphne Salsabile Alinandita,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Kuntum Khaira Nadja,Member
+SAUVC-ID-14,N5 AUV,IPB University ,Amira Zul Ilmi Wattaqwa,Member
+SAUVC-ID-15,N4 AUV,IPB University,Nabila Aishi Octaviana ,Member
+SAUVC-ID-15,N4 AUV,IPB University,Tiara Anggraeni ,Member
+SAUVC-ID-15,N4 AUV,IPB University,Risang Adjie Panjtar Rabbani,Member
+SAUVC-ID-15,N4 AUV,IPB University,Akbar Hannan Ibrahim ,Member
+SAUVC-ID-15,N4 AUV,IPB University,Sabrina Tijani Sari,Member
+SAUVC-ID-15,N4 AUV,IPB University,Reza Habib Prasetyo,Member
+SAUVC-ID-15,N4 AUV,IPB University,Muhammad Ridha Ramadhan,Member
+SAUVC-ID-15,N4 AUV,IPB University,Alnodio Lotaldy,Member
+SAUVC-ID-15,N4 AUV,IPB University,"Prof. Dr. Ir. Indra Jaya, M.Sc.",Member
+SAUVC-ID-15,N4 AUV,IPB University,"Muhammad Iqbal, S.Pi., M.Si.",Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Adam Maulana,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,"Zindhu Maulana Ahmad Putra, S.ST., M.Tr.T.",Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,"Dimas Pristovani Riananda, S.ST., MT.",Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Rian Eka Prambudi,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Talitha Amalia Zhafirah,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Nurahmad Hadi Cahyadi,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Anugerah Ekha Gusti Audryadmaja,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Muhammad Indrastata Iftitana Arvi,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Ihwanul Sobirin,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Ahmad Lucky Akhdhan,Member
+SAUVC-ID-16,HYDROships,Shipbuilding Institute of Polytechnic Surabaya,Gandhi Achmad Tegar Prakasa,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Althaf Nafi Anwar,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Bhamakerti Mohammad Aydan,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Hafizhuddin Rasyid,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Rahmat Bryan Naufal,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Salman Hadi,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Steffi Natalie Paliyama,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Umar Maulana,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Zaki Ananda,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Kafilia Nadya Shahab,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Lim Bodhi Wijaya,Member
+SAUVC-ID-38,AMV UI,University of Indonesia ,Rangga Dwi Andhika,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Rudy Dikairono,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Antonius Wijaya,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Muhammad Farhan,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,M. Taufiqul Huda,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Rafi Athallah Dhiyastono,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Hendi Yudistya,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Meylisa Lavenia,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Muhammad Hadi Hamdani,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Khayyir Noorachman Munawir,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Bryan Michael Kurniawan,Member
+SAUVC-ID-59,Banyubramanta ITS,Sepuluh Nopember Institute Of Technology,Muhamad Rizano Alamsyah,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Vishwesh Rajput,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Neer Patel,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Soham Patel,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Rhythm Patel,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Swayam Satbhai,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Parv Raval,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Ananya Kapadia,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Kumar Satyam,Member
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Dr. Mihir Chauhan,Supervisor
+SAUVC-IN-02,Nirma AUV,"Institute of Technology, Nirma University",Dr. Akash Mecwan,Supervisor
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Kartik Yogeshbhai Siddhpura,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Shah Trushar Rohitkumar,Supervisor
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Dr.Vijaykumar Dasharathbhai Patel,Supervisor
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Prajapati Rohankumar Nareshbhai,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Raj Pareshbhai Pithva,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Poojan vanani,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Vishv HarishBhai Raval,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Vora Dhwani Yagneshkumar,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Patel Parth Kaushikbhai,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Panchal Sarthak Devangkumar,Member
+SAUVC-IN-03,AQUABOT,U. V. Patel College of Engineering - Ganpat University,Niraj Pattnayak,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Madhavnambi Ramanujam Valarmarthi,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Shankruth Balasubramaniyam,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Sooraj Skanda Segu Narendra,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Debankit Bhattacharya,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Aatmaj Bhayani ,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Shahid Mohammad Mulla,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Aksh Saini,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Gunashekhar Mari,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Prithish S,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Naga Sai Balaji Thadikonda,Member
+SAUVC-IN-08,AMOGH,Indian Institute of Technology Madras,Pragna Sai Teja Duddu,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Raghavendran S,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Roshan VS,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Mudigonda Vibhavgopal Lakshmi Narasimha,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Nithin M,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Vijay Krishna RV,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Karthick Pandian P V,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Ponnada Srinidhi,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Jyolsna Joji Isac,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Satvik Aryan,Member
+SAUVC-IN-47,Saaral,IIITDM Kancheepuram,Vikas K A,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Samprakash R,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Karthik Kumar P K,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Sudarshan M,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Kavya G,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Vandhanah S A,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Karthickselvan A,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Jayandan S A,Mentor
+SAUVC-IN-54,Varuna ,Sairam Institutions,Manthra K S,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Karthik M S,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Chandana A,Member
+SAUVC-IN-54,Varuna ,Sairam Institutions,Akshatha A,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Abineshwaran Arumugam,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Hamith Yahya Karoopan Haja Mohideen,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Raveenthiran Eshwaran,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Thangadurai Murugan,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Ghuruprasad Kandhan Suresh Kumar,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Yogadarsshan Kathirvel Subashchandran,Member
+SAUVC-IN-64,ABYSS,Bannari Amman Institute of Technology,Selvamuthukumaran Dhanasekaran,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Abdul Basith Palliparamban,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Muhammed Sha KM,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Saifudheen MI,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Muhsin Mubarak KA,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Mohammed Younas TA,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Aditya Krishnan S,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Aswin Sunil,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Neha B,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Hafsa KS,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Lena Alphonso Jojo,Member
+SAUVC-IN-71,Oceanic Seekers ,KMEA Engineering College,Sunil Paul,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Dev Raj Jain,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Mundhe Sushant Uttam,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Ayush Diwang,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Amichand Gurjar,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Amit Kumar,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Amandeep Yadav,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Divya Raj,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Khushal,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Aditya Kora,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",S Mohammed Shuaib,Member
+SAUVC-IN-74,Kurma,"Indian Institute of Technology, Roorkee ",Kuntal Pokiya,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Abhinava Teja Reddy,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Abhinav VS,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Mourya Bhatt,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Kirti Kumari,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Prapti Pakkala,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Tanushree K,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Chirag MT,Member
+SAUVC-IN-86,EDHITHA UAS,MS Ramaiah Institute,Yashas E,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Karthik N Nair,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Shijil Shijo,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Muhammad Nabeel. K ,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Anfal Hisham Thangal P,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Irfan S,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Fazna P F ,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Suhana K N,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Anan Fathima,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Mohammed Shan M R ,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Mohamed Musthafa A K,Member
+SAUVC-IN-91,HydroBots HAVOC,KMEA Engineering College,Aliya Shahul ,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Ryo Miyakawa,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Hiroyuki Yokota,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Binggi Huang,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Issei Odasaki,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Yuto Nakazuru,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Han Xu,Member
+SAUVC-JP-04,Kyutech Underwater Robotics,Kyushu Institute of Technology,Yuya Nishida,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Sudheera Akalanka,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Nethra Bandara,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Yehan Sajana,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Theekshana Senanayaka,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Janidu Shehan,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Dulaj Havidu,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Senesh Colambage,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Tharindu Gamage,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Kisali Thumara,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,Matheesha Abeysinghe,Member
+SAUVC-LK-10,Diyakawa,University of Moratuwa,S.Yuwarajan,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Ahmad Kamil Mahmud bin Samsul Bahri,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Ahmad Fikri Syamil bin Ahmad Sabri,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Muhammad Daniel Tahir bin Mohd Tahir,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Nor Nazifah binti Muhammad Saidi,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Mohamad Amirrudin bin Mazlan,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Wallman Muji,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Tam Kah Chun,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Muhammad Syahrul Syamal bin Zulkifli,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Nur Azmina binti Mat Jamail,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Nurul Ain binti Mohd Isa,Member
+SAUVC-MY-63,NAVAL UMT,Universiti Malaysia Terengganu,Adi farhan bin Elmy Shadzly,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Ilia Kulikov,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Dmitrii Vovdenko ,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Vladislav Plotnikov,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Liubov Chernyshova ,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Anna Pak,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Artem Druzhinin,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Mikhail Nemanov ,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,KHamza Kondrashkov,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Nikita Bulatov,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Semyon Karmanov,Member
+SAUVC-RU-60,Hydronautics,Bauman Moscow State Technical University,Danil Shakuev,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Danil Shakuev,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Serafima Petrukhina,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Dmitriy Vovdenko,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Vladislav Plotnikov,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Mikhail Nemanov ,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Semyon Karmanov,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Artem Druzhinin,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Viktoriia Makhonia,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Ivan Kakurin,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Nikita Artemev,Member
+SAUVC-RU-62,Hydronautics - SeveROV,Bauman Moscow State Technical University,Yuliia Sukhova,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Javin Eng Hee Pin,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Deshpande Sunny Nitin,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Tom Manuel Opalla Piccio,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Ek Hong Sheng Gerald,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Tricia Ng Jia-Hui,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Daryl Ho Zhi Heng,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Aryan Gupta,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,"Lim Jun Han, John-Henry",Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Raj Narayan Sikder,Member
+SAUVC-SG-30,SUwUtd,Singapore University of Technology and Design,Aryan Mahesh,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Zhang Zihan,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Muthurathinam Ganapathirajan,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Antony Joseph Abigail Shreya,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Asha Mathyalakan,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Nolan Liew Boon Xiong,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Bon Lainell Ong Jun Wei,Member
+SAUVC-SG-31,SP AUV,Singapore Polytechnic ,Oh Kai Hong,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Zou Yunchuan,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,"Seow Zhi Yong, Justin",Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Zhang Yijian,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Song Yuexi,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Ranjan Meera,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Pakhale Advay Dilip,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Samuel Foo Enze,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Wong Zhun Hui Wesley,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Zhou Xinyan,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Chan Sheng Bin,Member
+SAUVC-SG-32,Hornet9.0,National University of Singapore,Ang Peng Xuan,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Titus Ng,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Justin Sim,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Leong Deng Jun,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Ng Xing Yu,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,He Shao Liang ,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Chen Jiawei ,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Patrick Joy Surbakti,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Drustan Yeo,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Guk Yi Siong ,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Irwin Kong Xunmeng,Member
+SAUVC-SG-37,Bumblebee Autonomous Systems,National University of Singapore,Kristoffer Videl Wijono,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Vu Tien Luc,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Jennifer Goh Zhen Ni,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,"Lim Han Zhou, Arthur",Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Toh Jia Hao,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Liu Fangzhou,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Zach Low Qing Rong,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Rushdan Mikail Bin Roslan,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Feng Qihao,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Goh Jin Long Abdillah,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Yeo Kay Hong,Member
+SAUVC-SG-45,Mecatron,Nanyang Technological University,Cheo Le Xian,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Ömer Raif ÖZOĞLU ,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,İsmail AKDAŞ ,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,İsmet Kaan ÇAL,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Mehmet Kağan ŞANVERDİ,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Pelinsu LOĞOĞLU,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Eren ÖZCAN,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Can KOÇ,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Ömer Aybars ÇELEBİ,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Doruk Efe FIRAT,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Merve ARSLAN,Member
+SAUVC-TR-44,ALESTA ,Adana Science High School,Alya ERTENİ,Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Yang, Yu-Sheng",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Ling, Yi-Jie",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Chiang, Ting-Wei",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Xie, Zu-En",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Hsu, Kuan-Dong",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Wang, Jui-Che",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Chiang, Cheng-Han",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Chen, Hsi",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Su, Wei-Lun",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Chen, Po-Hsu",Member
+SAUVC-TW-77,NYCU ORCA AUV,National Yang-Ming Chiao Tung University,"Yeh, Che-Wu",Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Rayed Mustafa Saidi,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Ahmed Ubaid Alsaggaf,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Mohammed Saeed Alsaiari,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Abdullah Awad Almotiri,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Mohanad Sulaiman Aldakheel,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Meshal Awadallah Alsulami,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Rayan Ahmad Alsulami,Member
+SAUVC-SA-72,AquaDrag,King Abdulaziz University,Faisal Ahmed Alghamdi,Member

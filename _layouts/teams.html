@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  {%- include head.html -%}
+<body>
+  {%- include navbar.html -%}
+
+  <div class="hero">
+    <h3 class="welcome" style="padding-bottom: 0em;"><strong style="font-size:1.2em;">Singapore AUV Challenge 2024</strong></h3>
+    <img src="/img/mascot.svg" alt="SAUVC mascot">
+    <h3 class="synopsis" style="padding: 1em;"> <span class="welcome-name">Participating Teams</span> </h3>
+  </div>
+
+  {% for team in site.data.participants %}
+    <div class="team">
+        <h3 class="teams-title" id="{{team.team-id}}">Team <span class="teams-id">{{team.team-id}}</span> , <span class="teams-name">{{ team.team }}</span> from {{ team.institution }}</h3>
+        <ul class="teams-list-members">
+          {% for member in team.members %}
+          <li class="team-member">{{ member }}</p>
+          {% endfor %}
+          </ul>
+    </div>
+  {% endfor %}
+
+  {%- include footer.html -%}
+</body>
+</html>
